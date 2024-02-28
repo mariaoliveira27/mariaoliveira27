@@ -24,6 +24,6 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 
 ## Contato
 
-- **E-mail:** [mariaclariagomes@gmail.com]
-- **LinkedIn:** [Seu Perfil no LinkedIn]
+- **E-mail: mariaclariagomes@gmail.com
+
 
