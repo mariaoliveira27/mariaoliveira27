@@ -15,6 +15,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 - **Metodologias:** Scrum, Kanban
 - **Ferramentas:** Git, VS Code, Eclipse, Replit
 
-##Ouvindo Spotify
+## Ouvindo Spotify
+https://open.spotify.com/playlist/5ReP6sbgaxjV6I0WaLHGjU?si=073903505548405f
 
 
