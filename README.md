@@ -16,4 +16,4 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 - **Ferramentas:** Git, VS Code, Eclipse, Replit
 
 ## Ouvindo Spotify
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=mps12yifjbb5s95wkmoggtg5g&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mps12yifjbb5s95wkmoggtg5g&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)]]
+[https://spotify-github-profile.vercel.app/api/view.svg?uid=mps12yifjbb5s95wkmoggtg5g&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mps12yifjbb5s95wkmoggtg5g&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)]
