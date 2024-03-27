@@ -18,6 +18,6 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 ## Ouvindo Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mps12yifjbb5s95wkmoggtg5g&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=mps12yifjbb5s95wkmoggtg5g&redirect=true)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mps12yifjbb5s95wkmoggtg5g)
-https://www.last.fm/pt/user/clara
+
 
 
