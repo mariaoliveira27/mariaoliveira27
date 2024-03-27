@@ -16,8 +16,8 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 - **Ferramentas:** Git, VS Code, Eclipse, Replit
 
 ## Ouvindo Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mps12yifjbb5s95wkmoggtg5g&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=mps12yifjbb5s95wkmoggtg5g&redirect=true)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mps12yifjbb5s95wkmoggtg5g)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mps12yifjbb5s95wkmoggtg5g)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mps12yifjbb5s95wkmoggtg5g&cover_image=false&theme=default&show_offline=false&background_color=450349&interchange=true&bar_color=14c80e)](https://github.com/kittinan/spotify-github-profile)
 
 
