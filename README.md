@@ -1,3 +1,15 @@
+
+<!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! -->
+
+-----
+
+<div>
+<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header.png?raw=true"/>
+</div>
+
+-----
+
+
 ### Hi there 👋
 
 Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
