@@ -4,7 +4,7 @@
 -----
 
 
-<img src="(https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/9c638287-3379-4ab3-8a62-0e68745cc9e2)" width="800px">
+<img src="Design sem nome (4).png" width="800px">
 
 
 -----
