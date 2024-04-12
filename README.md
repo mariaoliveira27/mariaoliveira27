@@ -4,7 +4,7 @@
 -----
 
 
-<img src="Design sem nome (4).png" width="800px">
+<img src="Design sem nome (4).png" width="1080px">
 
 
 -----
