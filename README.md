@@ -7,6 +7,7 @@
 <img align="center" alt="Header" src="(https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/8a2a28ad-2dc1-4512-99da-2fda824dbfb0"/>
 </div>
 
+![Design sem nome (4)](https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/b43bd6ff-ebf5-4888-9ab7-09fd2254b672)
 
 -----
 
