@@ -4,7 +4,8 @@
 -----
 
 
-<img src="Design sem nome (4).png" width="1080px" height="290px">
+
+<img src="designguthub" width="1080px" height="290px">
 
 
 -----
