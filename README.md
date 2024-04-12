@@ -4,9 +4,7 @@
 -----
 
 
-<div>
-<img align="center" width= "800px" alt=![Design sem nome (4)] src=(https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/b43bd6ff-ebf5-4888-9ab7-09fd2254b672)/>
-</div>
+<img src="(https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/9c638287-3379-4ab3-8a62-0e68745cc9e2)" width="800px">
 
 
 -----
