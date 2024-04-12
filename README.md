@@ -4,8 +4,9 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header.png?raw=true"/>
+<img align="center" alt="Header" src="(https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/8a2a28ad-2dc1-4512-99da-2fda824dbfb0"/>
 </div>
+
 
 -----
 
