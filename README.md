@@ -5,7 +5,7 @@
 
 
 
-<img src="designguthub.png" width="1080px" height="290px">
+<img src="designguthub.png" >
 
 
 -----
