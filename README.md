@@ -17,7 +17,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonada pelo mundo da En
 
 ## Sobre Mim
 
-- 👨‍🎓 **Graduando**: Engenharia de Software na PUC Minas.
+- 👨‍🎓 **Graduanda**: Engenharia de Software na PUC Minas.
 - 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
 
 ## Habilidades
