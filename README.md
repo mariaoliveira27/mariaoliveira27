@@ -30,6 +30,4 @@ Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonada pelo mundo da En
 
 ## Ouvindo Spotify
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mps12yifjbb5s95wkmoggtg5g)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mps12yifjbb5s95wkmoggtg5g&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mps12yifjbb5s95wkmoggtg5g)[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mps12yifjbb5s95wkmoggtg5g&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
