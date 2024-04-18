@@ -9,9 +9,11 @@
 
 
 -----
-
-
 ### Hi there 👋
+
+# Olá, me chamo SeuNomeAqui ! 
+## Bem vindo ao meu perfil GitHub 👋
+
 
 Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonada pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
 
