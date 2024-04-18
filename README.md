@@ -9,10 +9,8 @@
 
 
 -----
-# Hi there 👋
-
-## Olá, me chamo Maria Clara ! 
-## Bem vindo ao meu perfil GitHub 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Maria Clara and my nickname is "Maria"!
 
 
 Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonada pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
