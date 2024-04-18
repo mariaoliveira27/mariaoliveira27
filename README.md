@@ -49,4 +49,4 @@ Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonada pelo mundo da En
 </div>  
 
 ## Estatísticas
-[![Readme Card](https://github.com/mariaoliveira27/mariaoliveira27/edit/main/README.md)](https://github.com/anuraghazra/github-readme-stats)
+
