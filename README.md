@@ -36,10 +36,8 @@ Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonada pelo mundo da En
 ## Ferramentas e Tecnologias
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-Resultado:
-
-Fundo branco com o título “Ferramentas e Tecnologias”, seguido do ícone do Git em laranja.
-Assim por diante, você pode ir adicionando outros ícones na frente. E além disso, caso queira, você pode inserir as tecnologias e ferramentas que está estudando. Um exemplo:
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
+          
 
 
           
