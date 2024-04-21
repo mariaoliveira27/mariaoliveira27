@@ -30,24 +30,24 @@ Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonada pelo mundo da En
 
 ## Ouvindo Spotify
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mps12yifjbb5s95wkmoggtg5g)[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mps12yifjbb5s95wkmoggtg5g&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
  <div>
       <div>
         <details>
           <summary><img height="20" alt="GIF"
-              src="img/spotify.gif" /> einfolke's
+              src="img/spotify.gif" /> clara´s
             Spotify Data</summary>
-          <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=22ffbmumrq57smcq6xjyzviva">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22ffbmumrq57smcq6xjyzviva" alt="Data Card for Spotify">
+          <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=mps12yifjbb5s95wkmoggtg5g">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=mps12yifjbb5s95wkmoggtg5g" alt="Data Card for Spotify">
 </a>
         </details>
       </div>
       <div>
         <img alt="Spotify" width="200px" height="270px"
-          src="https://spotify-github-profile.vercel.app/api/view?uid=22ffbmumrq57smcq6xjyzviva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+          src="https://spotify-github-profile.vercel.app/api/view?uid=mps12yifjbb5s95wkmoggtg5g&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
         &nbsp; &nbsp;
         <img alt="Spotify list" width="200px" height="270px"
-          src="https://spotify-recently-played-readme.vercel.app/api?user=22ffbmumrq57smcq6xjyzviva" />
+          src="https://spotify-recently-played-readme.vercel.app/api?user=mps12yifjbb5s95wkmoggtg5g" />
       </div>
     </div>
 
