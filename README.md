@@ -76,3 +76,4 @@ Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonada pelo mundo da En
 <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=mariaoliveira27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 -----
+<img height="20"  src="https://capsule-render.vercel.app/api?type=waving&height=240&color=1C14EF&section=footer&animation=scaleIn&descAlign=66&descAlignY=58&descSize=0&rotate=0"/>
