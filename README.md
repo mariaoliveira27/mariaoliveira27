@@ -67,7 +67,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonada pelo mundo da En
 <a href = "mailto:mariaclariagomes@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/maria-clara-gomes-01b64b16a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>  
------
+
 ## Estatísticas
 
 <div>
@@ -75,5 +75,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonada pelo mundo da En
 <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaoliveira27&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=mariaoliveira27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
------
-<img height="20"  src="https://capsule-render.vercel.app/api?type=waving&height=240&color=1C14EF&section=footer&animation=scaleIn&descAlign=66&descAlignY=58&descSize=0&rotate=0"/>
+
+ <div>
+<img height="1080px" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=1C14EF&section=footer&animation=scaleIn&descAlign=66&descAlignY=58&descSize=0&rotate=0"/>
+</div>
