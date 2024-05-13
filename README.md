@@ -35,7 +35,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonada pelo mundo da En
       <div>
         <details>
           <summary><img height="40" alt="GIF"
-              src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/024e970c-a70c-42af-ae20-82587f521715" /> Clara´s
+              src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/26a4c569-157b-4a9a-a1bf-a4e4db1049b7" /> Clara´s
             Spotify Data</summary>
           <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=mps12yifjbb5s95wkmoggtg5g">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=mps12yifjbb5s95wkmoggtg5g" alt="Data Card for Spotify">
