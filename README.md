@@ -22,9 +22,9 @@ Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonada pelo mundo da En
 -----
 ## Habilidades
 
-- **Linguagens de Programação:** C, Phyton
-- **Desenvolvimento Web:** HTML, CSS, JavaScript, React
-- **Banco de Dados:** MySQL, MongoDB
+- **Linguagens de Programação:** C, Java
+- **Desenvolvimento Web:** HTML, CSS, JavaScript, 
+- **Banco de Dados:** MySQL
 - **Metodologias:** Scrum, Kanban
 - **Ferramentas:** Git, VS Code, Eclipse, Replit
 -----
