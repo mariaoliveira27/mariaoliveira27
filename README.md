@@ -20,13 +20,39 @@ Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonada pelo mundo da En
 - 👨‍🎓 **Graduanda**: Engenharia de Software na PUC Minas.
 - 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
 -----
-## Habilidades
+## ⚡ Technologies
 
-- **Linguagens de Programação:** C, Java
-- **Desenvolvimento Web:** HTML, CSS, JavaScript, 
-- **Banco de Dados:** MySQL
-- **Metodologias:** Scrum, Kanban
-- **Ferramentas:** Git, VS Code, Eclipse, Replit
+These are some of the technologies and tools that I work with:
+
+Backend: 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+
+Database:
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+Cloud:
+
+Tools:
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+IDEs:
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+          
 -----
 ## Ouvindo Spotify
 
@@ -52,10 +78,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonada pelo mundo da En
     </div>
 
 -----
-## Ferramentas e Tecnologias
 
-<img loading="lazy" src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/9bd74ec6-24db-4c40-b2b4-fb89033f0039" width="40" height="40"/>  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="eclipse" />  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" /><img src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/2c1acbd3-c55f-471c-8f1f-6395de2515c1"  width="40" height="40" /><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />  <img src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/56d63c1f-270c-4ad5-a4f6-5cf171602f40" width="40" height="40" /> <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" alt="notepad++"/>
-          
                     
 -----
 ## Contatos:
