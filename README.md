@@ -28,8 +28,8 @@ Aqui, você encontrará um pouco sobre minha trajetória acadêmica, projetos, h
 
 These are some of the technologies and tools that I work with:
    
-
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
