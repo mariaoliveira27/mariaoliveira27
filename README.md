@@ -8,13 +8,17 @@
 <img src="designguthub.png" >
 
 
------
-# 👋 Hello! Welcome to my Github profile.
-## My name is Maria Clara and my nickname is "Maria"!
+---
 
+# 👋 Welcome to my GitHub
 
-Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonada pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
------
+Sou uma entusiasta apaixonada pela **Engenharia de Software**, atualmente estudante na **PUC Minas**.  
+Meu objetivo é aprender continuamente e contribuir ativamente para a comunidade de tecnologia, desenvolvendo soluções criativas e impactantes.  
+
+Aqui, você encontrará um pouco sobre minha trajetória acadêmica, projetos, habilidades e minha jornada no mundo da tecnologia.
+
+---
+
 ## Sobre Mim
 
 - 👨‍🎓 **Graduanda**: Engenharia de Software na PUC Minas.
