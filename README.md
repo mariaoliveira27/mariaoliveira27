@@ -60,30 +60,38 @@ IDEs:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=mariaoliveira27"/>      
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=mariaoliveira27"/> 
+
 -----
-## Ouvindo Spotify
+
+## 🎵 Ouvindo Spotify
+
+<div>
+  <details>
+    <summary>
+      <img height="20" alt="GIF" 
+           src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/26a4c569-157b-4a9a-a1bf-a4e4db1049b7" />
+      Clara's Spotify Data
+    </summary>
+    <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=mps12yifjbb5s95wkmoggtg5g" target="_blank">
+      <img 
+           src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=mps12yifjbb5s95wkmoggtg5g" 
+           alt="Data Card for Spotify" 
+           style="max-width: 100%; height: auto; border-radius: 8px;">
+    </a>
+  </details>
+  <div style="display: flex; gap: 16px; margin-top: 16px; flex-wrap: wrap; justify-content: center;">
+   
+ <img 
+         alt="Recently Played Tracks" 
+         width="200" 
+         height="270" 
+         src="https://spotify-recently-played-readme.vercel.app/api?user=mps12yifjbb5s95wkmoggtg5g" 
+         style="border-radius: 8px;">
+  </div>
+</div>
 
 
- <div>
-      <div>
-        <details>
-          <summary><img height="20" alt="GIF"
-              src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/26a4c569-157b-4a9a-a1bf-a4e4db1049b7" /> Clara´s
-            Spotify Data</summary>
-          <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=mps12yifjbb5s95wkmoggtg5g">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=mps12yifjbb5s95wkmoggtg5g" alt="Data Card for Spotify">
-</a>
-        </details>
-      </div>
-      <div>
-        <img alt="Spotify" width="200px" height="270px"
-          src="https://spotify-github-profile.vercel.app/api/view?uid=mps12yifjbb5s95wkmoggtg5g&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
-        &nbsp; &nbsp;
-        <img alt="Spotify list" width="200px" height="270px"
-          src="https://spotify-recently-played-readme.vercel.app/api?user=mps12yifjbb5s95wkmoggtg5g" />
-      </div>
-    </div>
 
 -----
 
