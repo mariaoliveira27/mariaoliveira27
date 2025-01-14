@@ -23,7 +23,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonada pelo mundo da En
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
-
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=mariaoliveira27"/>   
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -60,7 +60,7 @@ IDEs:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-          
+      
 -----
 ## Ouvindo Spotify
 
@@ -110,7 +110,7 @@ IDEs:
 </div>
 
 
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=mariaoliveira27"/>
+
 
  <div>
 <img  src="https://capsule-render.vercel.app/api?type=waving&height=240&color=1C14EF&section=footer&animation=scaleIn&descAlign=66&descAlignY=58&descSize=0&rotate=0"/>
