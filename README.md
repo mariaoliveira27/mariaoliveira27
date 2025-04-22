@@ -24,6 +24,12 @@ Aqui, você encontrará um pouco sobre minha trajetória acadêmica, projetos, h
 - 👨‍🎓 **Graduanda**: Engenharia de Software na PUC Minas.
 - 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
 -----
+
+# 🌟 Portfólio Carrd
+
+Este é meu portfólio criado com a ferramenta no-code [Carrd](https://carrd.co).  
+Acesse aqui: [https://profmaria.carrd.co/](https://profmaria.carrd.co/)
+
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
