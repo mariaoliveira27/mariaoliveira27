@@ -10,19 +10,20 @@
 
 ---
 
-# 👋 Welcome to my GitHub
+#  Welcome to my GitHub
 
-Sou uma entusiasta apaixonada pela **Engenharia de Software**, atualmente estudante na **PUC Minas**.  
-Meu objetivo é aprender continuamente e contribuir ativamente para a comunidade de tecnologia, desenvolvendo soluções criativas e impactantes.  
+# Olá! 👋
 
-Aqui, você encontrará um pouco sobre minha trajetória acadêmica, projetos, habilidades e minha jornada no mundo da tecnologia.
+Sou uma entusiasta apaixonada por Engenharia de Software e atualmente estudante na **PUC Minas**.
 
----
+Meu propósito é evoluir continuamente, explorando novas tecnologias e contribuindo de forma ativa para a comunidade tech, desenvolvendo soluções criativas e de impacto.
+
+Aqui você encontrará um pouco da minha trajetória acadêmica, projetos, habilidades e minha jornada no mundo da tecnologia. 🚀
 
 ## Sobre Mim
+- 🎓 **Formação:** Graduanda em Engenharia de Software pela PUC Minas.
+- 🌱 **Atualmente:** Focada no aprimoramento de habilidades em desenvolvimento de software, design de sistemas e metodologias ágeis.
 
-- 👨‍🎓 **Graduanda**: Engenharia de Software na PUC Minas.
-- 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
 -----
 
 # 🌟 Portfólio Carrd
