@@ -26,10 +26,14 @@ Aqui você encontrará um pouco da minha trajetória acadêmica, projetos, habil
 
 -----
 
-# 🌟 Portfólio Carrd
+# 🌟 Portfólio Card
 
 Este é meu portfólio criado com a ferramenta no-code [Carrd](https://carrd.co).  
 Acesse aqui: [https://profmaria.carrd.co/](https://profmaria.carrd.co/)
+
+
+Este é o meu portfólio criado com a ferramenta de React.  
+Acesse aqui: [https://portfolio-da-maria-clara.vercel.app/](https://portfolio-da-maria-clara.vercel.app/)
 
 ## ⚡ Technologies
 
